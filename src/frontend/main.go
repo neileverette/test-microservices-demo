@@ -20,7 +20,7 @@ import (
 	"net/http"
 	"os"
 	"time"
-
+	"github.com/newrelic/go-agent/v3/newrelic"
 	"cloud.google.com/go/profiler"
 	"github.com/gorilla/mux"
 	"github.com/pkg/errors"
