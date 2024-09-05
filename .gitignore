@@ -19,4 +19,9 @@ pkg/
 *.tfvars
 release/wi-kubernetes-manifests.yaml
 k8s-1-30-4-do-0-sfo2-1725295196286-kubeconfig.yaml
+*.yaml
+/build/
+/dist/
+*.log
+*.mp4
 
